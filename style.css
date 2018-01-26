@@ -1,0 +1,98 @@
+									/*Top Of Webpage*/
+
+/* NAVIGATION SECTION */
+.navbar-default .navbar-nav > li > a {
+    color: Red;
+    font-weight: bold;
+}
+
+.navbar-default .navbar-brand {
+	color: red;
+	font-weight: bold;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #f4511e !important;
+    background-color: #fff !important;
+}
+/* JUMBOTRON SECTION */
+.jumbotron {
+	background-image: url("img/Cake1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 100%;
+	padding: 150px;
+}
+
+.jumbotron h1 {
+	color: Red;
+	font-weight: bold; 
+	font-family: serif;
+	text-shadow: 1px 1px White;
+}
+
+.jumbotron p {
+	color: Red;
+	text-shadow: 2px 2px White;
+}
+
+/* ABOUT SECTION */
+
+.container-fluid {
+	padding: 60px;
+}
+
+.container-fluid h2 {
+	font-size: 3em;
+	font-weight: bold;
+}
+
+.container-fluid h4 {
+	font-size: 2em;
+}
+
+.container-fluid p {
+	font-size: 1em;
+}
+
+/* MENU SECTIION */
+
+.panel-heading {
+    height:110px;
+}
+
+.panel-body {
+    min-height: 150px;
+    max-height: 150px; 
+    background-color: grey;
+    font-size: 1em;
+    text-shadow: 1px 1px;
+}
+
+.panel-footer {
+    height:125px; 
+    background-color: Red;
+}
+
+.bg-grey {
+	 background-color: #f6f6f6;
+	 padding: 100px;
+}
+/* CATER SECTION */
+
+#cater {
+	background-image: url("img/cake3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-weight: bolder;
+	min-height: 100%;
+	padding: 125px;
+}
+
+#cater p {
+	color: White;
+	font-size: 18px;
+}
+
+
+/* CONTACT SECTION */
